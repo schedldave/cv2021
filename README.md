@@ -11,10 +11,10 @@ Students have the option to run the code *online* with Google Colab (requires a 
 
 ### Online: 
 Everything runs on a Google machine, so you don't need to set up anything on your computer. Furthermore, the machines come with the most popular libraries preinstalled. 
-Just click on the corresponding Open in Colab badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](##Tutorials).
+Just click on the corresponding Open in Colab badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#tutorials).
 
 ### Local:
-Install Python on your computer via [Conda/Miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/windows.html) or the [Python Installer](https://www.python.org/downloads/). Use Python3, as Python2 is not supported anymore. Furthermore, you need an Editor that support Jupyter (`.ipynb`)  notebooks. I recommend using [Visual Studio Code](https://code.visualstudio.com/download). Optionally, you can also use a local server and open [Notebooks in your browser](https://test-jupyter.readthedocs.io/en/latest/install.html) (Visual Studio simplifies this).
+Install Python on your computer via [Conda/Miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/windows.html) or the [Python Installer](https://www.python.org/downloads/). Use Python3, as Python2 is not supported anymore. Furthermore, you need an Editor that supports Jupyter (`.ipynb`)  notebooks. I recommend using [Visual Studio Code](https://code.visualstudio.com/download). Optionally, you can also use a local server and open [Notebooks in your browser](https://test-jupyter.readthedocs.io/en/latest/install.html) (Visual Studio simplifies this).
 
 ## Useful Links:
 * [Python Documentation](https://docs.python.org/3.8/)
