@@ -1,4 +1,0 @@
-ipykernel
-matplotlib
-numpy
-opencv
