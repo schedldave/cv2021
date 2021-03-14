@@ -20,7 +20,8 @@ In the announcement you should be able to answer the following questions:
 - How will you evaluate your results?
 - Qualitatively, what kind of results do you expect (e.g. plots or figures)
 - Quantitatively, what kind of analysis will you use to evaluate and/or compare your results (e.g. what performance metrics or statistical tests)?
-- I will notify you if the project topic is okay and what grade to expect if you succeed. 
+
+I will notify you if the project topic is okay and what grade to expect if you succeed. 
 Note that for the announcement you already need to look at some related work, which will help you for the next part.
 
 ## Part 1 - Related Work
