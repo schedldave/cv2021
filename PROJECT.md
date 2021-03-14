@@ -57,6 +57,11 @@ You are allowed to submit any supplementary material that you think is important
 
 ## Resources 
 Below you will find some inspirations for your project research:
+
+### Possible Project [Topics](TOPICS.md)
+A [list](TOPICS.md) of possible topics for the CV course.
+
+
 ### Conferences/Publications:
 - arXiv.org CVPR list: https://arxiv.org/list/cs.CV/recent
 - CVF open access: http://openaccess.thecvf.com/
