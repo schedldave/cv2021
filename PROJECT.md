@@ -33,7 +33,7 @@ During the presentation you should answer the following major questions:
 - What are the existing methods? 
 - What method or algorithm will you (most likely) use in your project? 
 
-Part 2 - Implementation and Evaluation
+## Part 2 - Implementation and Evaluation
 Focus on a Computer-Vision algorithm understand its details and implement it (almost) from scratch, and evaluate its performance. A user interface or user-friendliness is not important for this course project (but is allowed, of course). Don’t use an already existing implementation and just apply it. Start from scratch and understand what you are doing. 
 You don’t need to use Python for your implementation, but I highly recommend it, since we use it in the course and I will be able to help you if there are programming-related problems (in the Q&A session).
 If there is an implementation available already, you can use it for debugging and for evaluation. You are allowed to use libraries up to a certain limit. For example, you can use OpenCV and some of its features for filtering and image manipulation, or TensorFlow/PyTorch/etc. to set up and run Neural Networks. However, you should not use available detectors (e.g., a face detector) or pre-trained networks, if they are the main goal of your project. In certain projects, however, it might be okay to use them (if in doubt, always ask me).
