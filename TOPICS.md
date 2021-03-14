@@ -14,7 +14,7 @@ There might be several possible algorithms to tackle the project. Nevertheless, 
 | ![Still Image](../images/face_animation_original.png)   |   ![Face Animation](../images/face_animation_moving.gif?raw=true) |
 
 ### Variations: 
-Don't apply this technique to humans but to other moving objects. For example, trees that move in the wind, or animals such as cats and dogs. Note, however, that it might be hard to find useful training data for other objects.
+Don't apply this technique to humans but other moving objects. For example, trees that move in the wind, or animals such as cats and dogs. Note, however, that it might be hard to find useful training data for other objects.
 
 ### Links:
 - Inspiration from [myheritage.com](https://blog.myheritage.com/2021/02/new-animate-the-faces-in-your-family-photos/?utm_source=organic_twitter&utm_medium=social&utm_campaign=web&tr_funnel=web&tr_country=US&tr_creative=deep_nostalgia&utm_content=deep_nostalgia)
@@ -23,10 +23,10 @@ Don't apply this technique to humans but to other moving objects. For example, t
 ---
 
 ## Campus Navigation
-The goal of this project is to work on an computer-vision based navigation on the FH campus. Based on a picture at the campus your algorithm estimates the position of the camera as precise as possible. An optional bonus feature is a navigation system that tells you where to go, if you are looking for a specific room.
+The goal of this project is to work on computer-vision-based navigation on the FH campus. Based on a picture at the campus your algorithm estimates the position of the camera as precisely as possible. An optional bonus feature is a navigation system that tells you where to go if you are looking for a specific room.
 ![Campus](../images/campus.jpg)
 ### Variations: 
-If you are not at the campus (e.g., due to Corona), use (parts of) your hometown to showcase your alogrithm.
+If you are not at the campus (e.g., due to Corona), use (parts of) your hometown to showcase your algorithm.
 
 ---
 
@@ -36,9 +36,9 @@ Optionally, output the detection with some text-to-speech software.
 ![Sign Language](../images/sign_language.png)
 
 ### Variations: 
-- Communicating in sign languages does not rely on a simple alphabet, but uses symbols for phrases and words. So in reality it is much more complex than just recognizing 26 letters of the alphabet. Try to work on a complex sign language recognition system that. 
-- Instead of recognizig sign language, work on a sign language generator. So your method creates pictures of hands given an input (letters or words).
-Note that, generating sign language images will be harder than recognizing it.
+- Communicating in sign languages does not rely on a simple alphabet, but uses symbols for phrases and words. So in reality it is much more complex than just recognizing 26 letters of the alphabet. Try to work on a complex sign language recognition system. 
+- Instead of recognizing sign language, work on a sign language generator. So your method creates pictures of hands given an input (letters or words).
+Note that, generating sign language images will be harder than recognizing them.
 
 
 ### Links:
@@ -50,7 +50,7 @@ Note that, generating sign language images will be harder than recognizing it.
 
 
 ## Image Colorization
-Develop an algorithm that get's a greyscale image as input and outputs a realistic color image without any user intervention. Current state-of-the-art colorization techniques rely on deep learning.
+Develop an algorithm that gets a greyscale image as input and outputs a realistic color image without any user intervention. Current state-of-the-art colorization techniques rely on deep learning.
 ![Image Colorization](../images/image_colorization.png)
 
 ### Links:
@@ -62,8 +62,8 @@ http://6.869.csail.mit.edu/fa19/projects/colorization_proposal.pdf
 ## Image Recognition / Object Detection / Image Segmentation
 The goal of this project is to develop an algorithm that recognizes scenes or objects in an image. 
 There are three options (from easy to hard):
-- *Image recognition*, classifies an entire image (e.g., an image with a snowy mountain peak gets classified as mountain).
-- *Object detection*, detects and localizes objects in an image. The position of detected objects is usually returned as bounding box. 
+- *Image recognition* classifies an entire image (e.g., an image with a snowy mountain peak gets classified as a mountain).
+- *Object detection* detects and localizes objects in an image. The position of detected objects is usually returned as a bounding box. 
 - *Scene segmentation*, or pixel-wise dense labeling, aims to give every pixel a label, which is more fine-grained than image-level
 recognition or object detection.
 
@@ -78,11 +78,11 @@ http://6.869.csail.mit.edu/fa19/projects/segmentation_proposal.pdf
 
 # Further Possible Topics (bullet points only)
 
-- *Super Resolution*: Given a low resolution input image, the algorithm computes a convincing high resolution output image (advanced: work on videos).
-- *Image Matting*: The algorithm operates on an input image and seperates it into fore- and background (e.g., an image of a face will be seperated into face and background and can be very handy for compositing). 
+- *Super Resolution*: Given a low-resolution input image, the algorithm computes a convincing high-resolution output image (advanced: work on videos).
+- *Image Matting*: The algorithm operates on an input image and separates it into fore- and background (e.g., an image of a face will be separated into face and background and can be very handy for compositing). 
 - *Biometrics*: Use an iris pattern, fingerprints, facial patterns, or some other feature, to reliably identify a person.
 - *Image Style Transfer*: Transfer the style of an image to another image. For example, this technique can be used to convert paintings into pictures and vice versa.
-- *Time Machine*: vary the age of a person in an image (similar to snapchat filters).
+- *Time Machine*: vary the age of a person in an image (similar to existing Snapchat filters).
 - *3D reconstruction*: reconstruct a geometrical representation (e.g., a point cloud) from a sequence of input images (advanced: only use one image and try to estimate depth).
 
 
