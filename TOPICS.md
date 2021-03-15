@@ -70,7 +70,7 @@ recognition or object detection.
 Numerous datasets and a vast literature for these problems exists.
 ![Segmentation](../images/segmentation.png)
 
-### Links
+### Links:
 http://6.869.csail.mit.edu/fa19/projects/segmentation_proposal.pdf
 
 
@@ -79,7 +79,7 @@ http://6.869.csail.mit.edu/fa19/projects/segmentation_proposal.pdf
 # Further Possible Topics (bullet points only)
 
 - *Super Resolution*: Given a low-resolution input image, the algorithm computes a convincing high-resolution output image (advanced: work on videos).
-- *Image Matting*: The algorithm operates on an input image and separates it into fore- and background (e.g., an image of a face will be separated into face and background and can be very handy for compositing). 
+- *Image Matting*: The algorithm operates on an input image and separates it into fore- and background (e.g., an image of a face will be separated into face and background; can be very useful for compositing). 
 - *Biometrics*: Use an iris pattern, fingerprints, facial patterns, or some other feature, to reliably identify a person.
 - *Image Style Transfer*: Transfer the style of an image to another image. For example, this technique can be used to convert paintings into pictures and vice versa.
 - *Time Machine*: vary the age of a person in an image (similar to existing Snapchat filters).
