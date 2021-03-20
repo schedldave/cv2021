@@ -19,6 +19,7 @@ Install Python on your computer via [Conda/Miniconda](https://conda.io/projects/
 
 ## Useful Links:
 * [Python Documentation](https://docs.python.org/3.8/)
+* [OpenCV Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 * If you know Matlab, you can find the differences between Matlab and Python [here](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html).
 
 ## Course Project
