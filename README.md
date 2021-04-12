@@ -3,7 +3,8 @@ Repository for the Computer Vision course (IM520) at the FH Hagenberg held by Da
 
 ## Tutorials:
 1. Python for Computer Vision [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2021/blob/main/01_PythonTutorial.ipynb)
-1. Introduction to OpenCV [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2021/blob/main/02_OpenCV.ipynb)
+2. Introduction to OpenCV [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2021/blob/main/02_OpenCV.ipynb)
+3. Filters in OpenCV [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2021/blob/main/03_Filters.ipynb)
 
 
 ## Python Setup
