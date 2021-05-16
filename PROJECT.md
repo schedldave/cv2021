@@ -74,3 +74,4 @@ A [list](TOPICS.md) of possible topics for the CV course.
 - Computer Vision companies and products (not up to date anymore): https://www.cs.ubc.ca/~lowe/vision.html
 - Resources, such as image databases and books (from MIT): http://6.869.csail.mit.edu/fa19/materials.html
 - A list of project ideas (from MIT): http://6.869.csail.mit.edu/fa19/project.html
+- YouTube channels that discuss recent science breakthroughs (mostly deep learning, such as [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/videos) or [tow minute papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos) )

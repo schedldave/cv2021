@@ -92,4 +92,4 @@ http://6.869.csail.mit.edu/fa19/projects/segmentation_proposal.pdf
 # Further Inspirations
 - A list of other project ideas (from MIT): http://6.869.csail.mit.edu/fa19/project.html
 - Resources, such as image databases and books (from MIT): http://6.869.csail.mit.edu/fa19/materials.html
-
+- YouTube channels that discuss recent science breakthroughs (mostly deep learning, such as [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/videos) or [tow minute papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos) )
