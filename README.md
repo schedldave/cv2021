@@ -6,7 +6,7 @@ Repository for the Computer Vision course (IM520) at the FH Hagenberg held by Da
 2. Introduction to OpenCV [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2021/blob/main/02_OpenCV.ipynb)
 3. Filters [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2021/blob/main/03_Filters.ipynb)
 4. Edges and Lines [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2021/blob/main/04_Edges.ipynb)
-5. Corners and Featuers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2021/blob/main/05_Features.ipynb)
+5. [Corners and Featuers](05_Features.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2021/blob/main/05_Features.ipynb)
 
 
 ## Python Setup
