@@ -1,4 +1,5 @@
 ipykernel
 matplotlib
 numpy
-opencv
+opencv-python==4.5.*
+opencv-contrib-python==4.5.*
